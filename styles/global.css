@@ -21,6 +21,7 @@ html {
     --grey-dark: #4D5E77;
     --grey-blue: #A1B2CD;
     --grey-light: #E5EAF1;
+    --grey-medium: #EAECF2;
 
     /* 1rem = 16px (Padrão do navegador) = 100%*/
     /* Definindo o pixel padrao de 16px para 10px*/
@@ -96,6 +97,20 @@ button.outlined, .button.outlined {
     color: var(--blue);
     border: .2rem solid var(--blue);
 }
+
+button.red,
+.button.red {
+    background: var(--red);
+    color: var(--white);
+}
+
+button.grey,
+.button.grey {
+    background: var(--grey-light);
+    color: var(--grey-dark);
+}
+
+/* HEADER */
 
 .content header {
     width: 80%;

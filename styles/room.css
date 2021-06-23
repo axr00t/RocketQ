@@ -16,11 +16,11 @@
 
 #room header .buttons .button:nth-child(1) {
     margin-right: .8rem;
-    padding: 1.3rem 1.6rem;
+    padding: 1.3rem 1rem;
 }
 
 #room header .buttons .button:nth-child(1) img{
-    margin-left: 1rem;
+    margin-left: 1.16rem;
     width: 2rem;
     height: 2rem;
 }

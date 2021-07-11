@@ -25,6 +25,6 @@ Rocket.q is an application of interaction through anonymous questions, being abl
 
 ## 🔖 Layout
 
-You can view the project layout through [this link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). It is necessary to have [Figma](https://figma.com) to access.
+You can view the project layout in [this link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). It's necessary to have [Figma](https://figma.com) account to access.
 
 ---

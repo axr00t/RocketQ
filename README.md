@@ -2,6 +2,7 @@
   Rocket.q
 </h1>
 <h2 align="center">Project made in nlw 6</h2>
+<img align="center" src="https://i.imgur.com/G2MWB5a.png"/>
 
 <br>
 

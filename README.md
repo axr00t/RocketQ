@@ -24,8 +24,4 @@ This project was developed with the following technologies:
 
 Rocket.q is an application of interaction through anonymous questions, being able to create a room for anonymous users to ask questions and the creator of the possession room for a password to manage these issues.
 
-## 🔖 Layout
-
-You can view the project layout in [this link](https://www.figma.com/file/vp3iFfd1ohCbHyDX9jCiQi/Roquet.q). It's necessary to have [Figma](https://figma.com) account to access.
-
 ---
